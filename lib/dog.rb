@@ -17,6 +17,4 @@ class Dog
     @breed = new_breed
   end 
   
-  
-
 end
